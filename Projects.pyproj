@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0b9e09ce-092e-4935-acb3-54f5d49e8bfc}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="PythonApplication1\PythonApplication1\lianxi.py" />
+    <Compile Include="PythonApplication1\PythonApplication1\plotpoint.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\axes_transfer.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\block_sort.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\camera_configs.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\camera_configs_1.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\camera_configs_2.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\ground_analysis.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\ground_clean.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\ground_computing.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\list_to_array.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\test.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\text_to_speech.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\threeD_overlying.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\threeD_rebuild.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\threeD_sort.py" />
+    <Compile Include="PythonApplication2\PythonApplication2\three_picture_sort.py" />
+    <Compile Include="PythonApplication3\PythonApplication3\camera_calibration.py" />
+    <Compile Include="PythonApplication3\PythonApplication3\module1.py" />
+    <Compile Include="PythonApplication4\PythonApplication4\camera_configs.py" />
+    <Compile Include="PythonApplication4\PythonApplication4\module1.py" />
+    <Compile Include="PythonApplication4\PythonApplication4\module2.py" />
+    <Compile Include="PythonApplication4\PythonApplication4\PythonApplication4.py" />
+    <Compile Include="传感器\传感器\module1.py" />
+    <Compile Include="传感器\传感器\module2.py" />
+    <Compile Include="传感器\传感器\module3.py" />
+    <Compile Include="传感器\传感器\module4.py" />
+    <Compile Include="传感器\传感器\传感器.py" />
+    <Compile Include="地面点采集\PythonApplication2\axes_transfer.py" />
+    <Compile Include="地面点采集\PythonApplication2\block_sort.py" />
+    <Compile Include="地面点采集\PythonApplication2\camera_configs.py" />
+    <Compile Include="地面点采集\PythonApplication2\camera_configs_1.py" />
+    <Compile Include="地面点采集\PythonApplication2\camera_configs_2.py" />
+    <Compile Include="地面点采集\PythonApplication2\ground_analysis.py" />
+    <Compile Include="地面点采集\PythonApplication2\ground_computing.py" />
+    <Compile Include="地面点采集\PythonApplication2\list_to_array.py" />
+    <Compile Include="地面点采集\PythonApplication2\test.py" />
+    <Compile Include="地面点采集\PythonApplication2\text_to_speech.py" />
+    <Compile Include="地面点采集\PythonApplication2\threeD_overlying.py" />
+    <Compile Include="地面点采集\PythonApplication2\threeD_rebuild.py" />
+    <Compile Include="地面点采集\PythonApplication2\threeD_sort.py" />
+    <Compile Include="地面点采集\PythonApplication2\three_picture_sort.py" />
+    <Compile Include="多传感器数据融合作业\多传感器数据融合作业\多传感器数据融合作业.py" />
+    <Compile Include="研电赛\PythonApplication2\camera_calibration.py" />
+    <Compile Include="研电赛\PythonApplication2\camera_configs_1.py" />
+    <Compile Include="研电赛\PythonApplication2\camera_configs_2.py" />
+    <Compile Include="研电赛\PythonApplication2\camera_configs_3.py" />
+    <Compile Include="研电赛\PythonApplication2\module1.py" />
+    <Compile Include="研电赛\PythonApplication2\module2.py" />
+    <Compile Include="研电赛\PythonApplication2\module3.py" />
+    <Compile Include="研电赛\PythonApplication2\temp.py" />
+    <Compile Include="研电赛\PythonApplication2\test.py" />
+    <Compile Include="研电赛\PythonApplication2\test_0610.py" />
+    <Compile Include="研电赛\PythonApplication2\test_ground.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\camera_configs.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\distortion_correct.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\main.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\picture_collecting_double.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\picture_collecting_single.py" />
+    <Compile Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\three_camera.py" />
+    <Compile Include="研电赛_车辆后方辅助系统\研电赛_车辆后方辅助系统\camera_configs.py" />
+    <Compile Include="研电赛_车辆后方辅助系统\研电赛_车辆后方辅助系统\main.py" />
+    <Compile Include="研电赛_车辆后方辅助系统\研电赛_车辆后方辅助系统\pixel_convert.py" />
+    <Compile Include="研电赛_车辆后方辅助系统\研电赛_车辆后方辅助系统\双目多线程-演示.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PythonApplication2\PythonApplication2\before.txt" />
+    <Content Include="PythonApplication2\PythonApplication2\cut_threeD.txt" />
+    <Content Include="PythonApplication2\PythonApplication2\remind.txt" />
+    <Content Include="PythonApplication2\PythonApplication2\x.txt" />
+    <Content Include="PythonApplication4\PythonApplication4\unfisheyeImage.png" />
+    <Content Include="地面点采集\PythonApplication2\before.txt" />
+    <Content Include="地面点采集\PythonApplication2\cut_threeD.txt" />
+    <Content Include="地面点采集\PythonApplication2\remind.txt" />
+    <Content Include="地面点采集\PythonApplication2\x.txt" />
+    <Content Include="研电赛\PythonApplication2\ground_filter.txt" />
+    <Content Include="研电赛\PythonApplication2\left.bmp" />
+    <Content Include="研电赛\PythonApplication2\right.bmp" />
+    <Content Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\BG.bmp" />
+    <Content Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统\result.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PythonApplication1\PythonApplication1" />
+    <Folder Include="PythonApplication2\PythonApplication2" />
+    <Folder Include="PythonApplication3\PythonApplication3" />
+    <Folder Include="PythonApplication4\PythonApplication4" />
+    <Folder Include="传感器\传感器" />
+    <Folder Include="地面点采集\PythonApplication2" />
+    <Folder Include="多传感器数据融合作业\多传感器数据融合作业" />
+    <Folder Include="研电赛\PythonApplication2" />
+    <Folder Include="研电赛_大型车辆安全警示系统\研电赛_大型车辆安全警示系统" />
+    <Folder Include="研电赛_车辆后方辅助系统\研电赛_车辆后方辅助系统" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>

@@ -1,0 +1,106 @@
+﻿  main.c
+d:\vs2013\vc\include\xtgmath.h(214): warning C4602: #pragma pop_macro:“new”该标识符前面没有 #pragma push_macro
+d:\vs2013\vc\include\xtgmath.h(215): warning C4193: #pragma warning(pop) : 没有匹配的“#pragma warning(push)”
+d:\vs2013\vc\include\xtgmath.h(216): warning C4161: #pragma pack(pop...) : 出栈的比入栈的多
+d:\vs2013\vc\include\cmath(23): error C2061: 语法错误: 标识符“abs”
+d:\vs2013\vc\include\cmath(23): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(23): error C2061: 语法错误: 标识符“acos”
+d:\vs2013\vc\include\cmath(23): error C2061: 语法错误: 标识符“asin”
+d:\vs2013\vc\include\cmath(24): error C2061: 语法错误: 标识符“atan”
+d:\vs2013\vc\include\cmath(24): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(24): error C2061: 语法错误: 标识符“atan2”
+d:\vs2013\vc\include\cmath(24): error C2061: 语法错误: 标识符“ceil”
+d:\vs2013\vc\include\cmath(25): error C2061: 语法错误: 标识符“cos”
+d:\vs2013\vc\include\cmath(25): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(25): error C2061: 语法错误: 标识符“cosh”
+d:\vs2013\vc\include\cmath(25): error C2061: 语法错误: 标识符“exp”
+d:\vs2013\vc\include\cmath(26): error C2061: 语法错误: 标识符“fabs”
+d:\vs2013\vc\include\cmath(26): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(26): error C2061: 语法错误: 标识符“floor”
+d:\vs2013\vc\include\cmath(26): error C2061: 语法错误: 标识符“fmod”
+d:\vs2013\vc\include\cmath(27): error C2061: 语法错误: 标识符“frexp”
+d:\vs2013\vc\include\cmath(27): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(27): error C2061: 语法错误: 标识符“ldexp”
+d:\vs2013\vc\include\cmath(27): error C2061: 语法错误: 标识符“log”
+d:\vs2013\vc\include\cmath(28): error C2061: 语法错误: 标识符“log10”
+d:\vs2013\vc\include\cmath(28): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(28): error C2061: 语法错误: 标识符“modf”
+d:\vs2013\vc\include\cmath(28): error C2061: 语法错误: 标识符“pow”
+d:\vs2013\vc\include\cmath(29): error C2061: 语法错误: 标识符“sin”
+d:\vs2013\vc\include\cmath(29): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(29): error C2061: 语法错误: 标识符“sinh”
+d:\vs2013\vc\include\cmath(29): error C2061: 语法错误: 标识符“sqrt”
+d:\vs2013\vc\include\cmath(30): error C2061: 语法错误: 标识符“tan”
+d:\vs2013\vc\include\cmath(30): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(30): error C2061: 语法错误: 标识符“tanh”
+d:\vs2013\vc\include\cmath(32): error C2061: 语法错误: 标识符“acosf”
+d:\vs2013\vc\include\cmath(32): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(32): error C2061: 语法错误: 标识符“asinf”
+d:\vs2013\vc\include\cmath(33): error C2061: 语法错误: 标识符“atanf”
+d:\vs2013\vc\include\cmath(33): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(33): error C2061: 语法错误: 标识符“atan2f”
+d:\vs2013\vc\include\cmath(33): error C2061: 语法错误: 标识符“ceilf”
+d:\vs2013\vc\include\cmath(34): error C2061: 语法错误: 标识符“cosf”
+d:\vs2013\vc\include\cmath(34): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(34): error C2061: 语法错误: 标识符“coshf”
+d:\vs2013\vc\include\cmath(34): error C2061: 语法错误: 标识符“expf”
+d:\vs2013\vc\include\cmath(35): error C2061: 语法错误: 标识符“fabsf”
+d:\vs2013\vc\include\cmath(35): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(35): error C2061: 语法错误: 标识符“floorf”
+d:\vs2013\vc\include\cmath(35): error C2061: 语法错误: 标识符“fmodf”
+d:\vs2013\vc\include\cmath(36): error C2061: 语法错误: 标识符“frexpf”
+d:\vs2013\vc\include\cmath(36): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(36): error C2061: 语法错误: 标识符“ldexpf”
+d:\vs2013\vc\include\cmath(36): error C2061: 语法错误: 标识符“logf”
+d:\vs2013\vc\include\cmath(37): error C2061: 语法错误: 标识符“log10f”
+d:\vs2013\vc\include\cmath(37): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(37): error C2061: 语法错误: 标识符“modff”
+d:\vs2013\vc\include\cmath(37): error C2061: 语法错误: 标识符“powf”
+d:\vs2013\vc\include\cmath(38): error C2061: 语法错误: 标识符“sinf”
+d:\vs2013\vc\include\cmath(38): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(38): error C2061: 语法错误: 标识符“sinhf”
+d:\vs2013\vc\include\cmath(38): error C2061: 语法错误: 标识符“sqrtf”
+d:\vs2013\vc\include\cmath(39): error C2061: 语法错误: 标识符“tanf”
+d:\vs2013\vc\include\cmath(39): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(39): error C2061: 语法错误: 标识符“tanhf”
+d:\vs2013\vc\include\cmath(41): error C2061: 语法错误: 标识符“acosl”
+d:\vs2013\vc\include\cmath(41): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(41): error C2061: 语法错误: 标识符“asinl”
+d:\vs2013\vc\include\cmath(42): error C2061: 语法错误: 标识符“atanl”
+d:\vs2013\vc\include\cmath(42): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(42): error C2061: 语法错误: 标识符“atan2l”
+d:\vs2013\vc\include\cmath(42): error C2061: 语法错误: 标识符“ceill”
+d:\vs2013\vc\include\cmath(43): error C2061: 语法错误: 标识符“cosl”
+d:\vs2013\vc\include\cmath(43): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(43): error C2061: 语法错误: 标识符“coshl”
+d:\vs2013\vc\include\cmath(43): error C2061: 语法错误: 标识符“expl”
+d:\vs2013\vc\include\cmath(44): error C2061: 语法错误: 标识符“fabsl”
+d:\vs2013\vc\include\cmath(44): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(44): error C2061: 语法错误: 标识符“floorl”
+d:\vs2013\vc\include\cmath(44): error C2061: 语法错误: 标识符“fmodl”
+d:\vs2013\vc\include\cmath(45): error C2061: 语法错误: 标识符“frexpl”
+d:\vs2013\vc\include\cmath(45): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(45): error C2061: 语法错误: 标识符“ldexpl”
+d:\vs2013\vc\include\cmath(45): error C2061: 语法错误: 标识符“logl”
+d:\vs2013\vc\include\cmath(46): error C2061: 语法错误: 标识符“log10l”
+d:\vs2013\vc\include\cmath(46): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(46): error C2061: 语法错误: 标识符“modfl”
+d:\vs2013\vc\include\cmath(46): error C2061: 语法错误: 标识符“powl”
+d:\vs2013\vc\include\cmath(47): error C2061: 语法错误: 标识符“sinl”
+d:\vs2013\vc\include\cmath(47): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(47): error C2061: 语法错误: 标识符“sinhl”
+d:\vs2013\vc\include\cmath(47): error C2061: 语法错误: 标识符“sqrtl”
+d:\vs2013\vc\include\cmath(48): error C2061: 语法错误: 标识符“tanl”
+d:\vs2013\vc\include\cmath(48): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(48): error C2061: 语法错误: 标识符“tanhl”
+d:\vs2013\vc\include\cmath(50): error C2054: 在“using”之后应输入“(”
+d:\vs2013\vc\include\cmath(50): error C2061: 语法错误: 标识符“using”
+d:\vs2013\vc\include\cmath(52): error C2061: 语法错误: 标识符“acosh”
+d:\vs2013\vc\include\cmath(52): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(52): error C2061: 语法错误: 标识符“asinh”
+d:\vs2013\vc\include\cmath(52): error C2061: 语法错误: 标识符“atanh”
+d:\vs2013\vc\include\cmath(53): error C2061: 语法错误: 标识符“cbrt”
+d:\vs2013\vc\include\cmath(53): error C2059: 语法错误:“;”
+d:\vs2013\vc\include\cmath(53): error C2061: 语法错误: 标识符“erf”
+d:\vs2013\vc\include\cmath(53): error C2061: 语法错误: 标识符“erfc”
+d:\vs2013\vc\include\cmath(53): fatal error C1003: 错误计数超过 100；正在停止编译

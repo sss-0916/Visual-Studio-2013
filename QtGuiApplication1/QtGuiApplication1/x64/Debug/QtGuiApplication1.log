@@ -1,0 +1,9 @@
+﻿  Uic'ing QtGuiApplication1.ui...
+  Rcc'ing QtGuiApplication1.qrc...
+  Moc'ing QtGuiApplication1.h...
+   RCC: Warning: No resources in 'd:\Backup\documents\visual studio 2013\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.qrc'.
+  main.cpp
+  QtGuiApplication1.cpp
+  qrc_QtGuiApplication1.cpp
+  moc_QtGuiApplication1.cpp
+  QtGuiApplication1.vcxproj -> d:\backup\documents\visual studio 2013\Projects\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe
